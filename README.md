@@ -22,4 +22,4 @@ Pede-se:
 
 Faça uma aplicação que utilize estas classes definidas por você, aplique o princípio de substituição de Liskov (LSP).
 
-A atividade foi feita durante a aula no LEC por Isaú Lucas e Liza Magalhães.
+A atividade foi feita durante a aula no LEC por Isaú Lucas e Liza Magalhães para a materia do professor Allyson. 
